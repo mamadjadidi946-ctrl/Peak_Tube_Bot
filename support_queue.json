@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1766222314616,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "سلام",
+    "status": "replied",
+    "created_at": "2025-12-20T12:48:34.616948",
+    "admin_reply": "سلام دوست عزیزم",
+    "source_msg_id": 3002,
+    "replied_at": "2025-12-20T12:49:09.119538"
+  },
+  {
+    "id": 1766223117460,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "سلام",
+    "status": "replied",
+    "created_at": "2025-12-20T13:01:57.460661",
+    "admin_reply": "سلام دوست عزیز",
+    "source_msg_id": 3023,
+    "replied_at": "2025-12-20T13:02:29.250150"
+  },
+  {
+    "id": 1766223240052,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "سلام",
+    "status": "replied",
+    "created_at": "2025-12-20T13:04:00.052831",
+    "admin_reply": "سلام",
+    "source_msg_id": 3047,
+    "replied_at": "2025-12-20T13:04:28.147850"
+  },
+  {
+    "id": 1766223496553,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "سلام",
+    "status": "replied",
+    "created_at": "2025-12-20T13:08:16.553215",
+    "admin_reply": "سلام دوست عزیزم",
+    "source_msg_id": 3062,
+    "replied_at": "2025-12-20T13:08:43.007088"
+  },
+  {
+    "id": 1766223556453,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "سلام",
+    "status": "replied",
+    "created_at": "2025-12-20T13:09:16.453199",
+    "admin_reply": "سلام دوست عزیز",
+    "source_msg_id": 3079,
+    "replied_at": "2025-12-20T13:09:42.750247"
+  },
+  {
+    "id": 1766226187199,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "سلام",
+    "status": "replied",
+    "created_at": "2025-12-20T13:53:07.199149",
+    "admin_reply": "سلام دوست عزیز",
+    "source_msg_id": 3103,
+    "replied_at": "2025-12-20T13:54:01.070817"
+  },
+  {
+    "id": 1766226404792,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "سلام",
+    "status": "replied",
+    "created_at": "2025-12-20T13:56:44.792714",
+    "admin_reply": "سلام دوست عزیز",
+    "source_msg_id": 3123,
+    "replied_at": "2025-12-20T13:57:12.270775"
+  },
+  {
+    "id": 1766235942693,
+    "user_id": 8451793317,
+    "username": "کاربر",
+    "text": "سلام",
+    "status": "replied",
+    "created_at": "2025-12-20T16:35:42.693053",
+    "admin_reply": "سلام دوست عزیز",
+    "source_msg_id": 3206,
+    "is_from_admin": false,
+    "is_read": true,
+    "replied_at": "2025-12-20T16:36:22.585232"
+  },
+  {
+    "id": 1766321936484,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "👤 پروفایل",
+    "status": "unread",
+    "created_at": "2025-12-21T16:28:56.484519",
+    "admin_reply": null,
+    "source_msg_id": 3392
+  },
+  {
+    "id": 1766321939197,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "📊 اشتراک",
+    "status": "unread",
+    "created_at": "2025-12-21T16:28:59.197445",
+    "admin_reply": null,
+    "source_msg_id": 3394
+  },
+  {
+    "id": 1766321941965,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "📥 دانلود",
+    "status": "unread",
+    "created_at": "2025-12-21T16:29:01.965339",
+    "admin_reply": null,
+    "source_msg_id": 3396
+  },
+  {
+    "id": 1766321944365,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "🤝 دعوت دوستان",
+    "status": "unread",
+    "created_at": "2025-12-21T16:29:04.365965",
+    "admin_reply": null,
+    "source_msg_id": 3398
+  },
+  {
+    "id": 1766418058210,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "سلام",
+    "status": "unread",
+    "created_at": "2025-12-22T19:10:58.210448",
+    "admin_reply": null,
+    "source_msg_id": 3578
+  },
+  {
+    "id": 1766496273209,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "سلام",
+    "status": "unread",
+    "created_at": "2025-12-23T16:54:33.209448",
+    "admin_reply": null,
+    "source_msg_id": 3599
+  },
+  {
+    "id": 1766496756770,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "سلام",
+    "status": "replied",
+    "created_at": "2025-12-23T17:02:36.770841",
+    "admin_reply": "سلام",
+    "source_msg_id": 3617,
+    "replied_at": "2025-12-23T17:03:06.658142"
+  },
+  {
+    "id": 1766582639272,
+    "user_id": 5754581238,
+    "username": "maaamadd",
+    "text": "سلام",
+    "status": "replied",
+    "created_at": "2025-12-24T16:53:59.272047",
+    "admin_reply": "سلام",
+    "source_msg_id": 3906,
+    "replied_at": "2026-02-10T16:04:14.828359"
+  }
+]

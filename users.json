@@ -1,0 +1,532 @@
+{
+  "5754581238": {
+    "username": "maaamadd",
+    "plan": "professional",
+    "created_at": "2025-12-12T19:33:26.175384",
+    "downloads_today": 0,
+    "downloads_total": 26,
+    "subscription_end": "2026-02-05T16:55:07.550720",
+    "last_reset": "2026-02-14T23:47:34.669137",
+    "support": {
+      "last_admin_message": {
+        "text": "سلام",
+        "timestamp": "2026-02-10T16:04:14.599577"
+      }
+    },
+    "language": "fa",
+    "ai_conversations": [
+      {
+        "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33",
+        "user_id": 5754581238,
+        "title": "ℹ️ درباره",
+        "messages": [
+          {
+            "role": "user",
+            "content": "ℹ️ درباره",
+            "timestamp": "2026-02-12T20:15:48.730923",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "assistant",
+            "content": "PeakTube Smart Support فقط برای YouTube طراحی شده است. ما هیچ پلتفرم دیگری را پشتیبانی نمی‌کنیم.",
+            "timestamp": "2026-02-12T20:15:51.759472",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "user",
+            "content": "❓ راهنمایی",
+            "timestamp": "2026-02-12T20:16:03.298341",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "assistant",
+            "content": "PeakTube Smart Support فقط برای YouTube طراحی شده است. ما هیچ پلتفرم دیگری را پشتیبانی نمی‌کنیم.",
+            "timestamp": "2026-02-12T20:16:07.766184",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "user",
+            "content": "⚙️ تنظیمات",
+            "timestamp": "2026-02-12T20:16:19.376643",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "assistant",
+            "content": "PeakTube Smart Support فقط برای YouTube طراحی شده است. ما هیچ پلتفرم دیگری را پشتیبانی نمی‌کنیم.",
+            "timestamp": "2026-02-12T20:16:23.901024",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "user",
+            "content": "🚀 خرید اشتراک ویژه (VIP)",
+            "timestamp": "2026-02-12T20:16:33.491152",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "assistant",
+            "content": "PeakTube Smart Support فقط برای YouTube طراحی شده است. ما هیچ پلتفرم دیگری را پشتیبانی نمی‌کنیم.",
+            "timestamp": "2026-02-12T20:16:36.728495",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "user",
+            "content": "📊 اشتراک",
+            "timestamp": "2026-02-12T20:16:53.102699",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "assistant",
+            "content": "PeakTube Smart Support فقط برای YouTube طراحی شده است. ما هیچ پلتفرم دیگری را پشتیبانی نمی‌کنیم.",
+            "timestamp": "2026-02-12T20:17:03.136748",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "user",
+            "content": "🤝 دعوت دوستان",
+            "timestamp": "2026-02-12T20:17:48.430612",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "assistant",
+            "content": "PeakTube Smart Support فقط برای YouTube طراحی شده است. ما هیچ پلتفرم دیگری را پشتیبانی نمی‌کنیم.",
+            "timestamp": "2026-02-12T20:17:53.374722",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "user",
+            "content": "🤝 دعوت دوستان",
+            "timestamp": "2026-02-12T20:18:13.602838",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "assistant",
+            "content": "PeakTube Smart Support فقط برای YouTube طراحی شده است. ما هیچ پلتفرم دیگری را پشتیبانی نمی‌کنیم.",
+            "timestamp": "2026-02-12T20:18:17.232330",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "user",
+            "content": "📥 دانلود",
+            "timestamp": "2026-02-12T20:18:31.871678",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "assistant",
+            "content": "PeakTube Smart Support فقط برای YouTube طراحی شده است. ما هیچ پلتفرم دیگری را پشتیبانی نمی‌کنیم.",
+            "timestamp": "2026-02-12T20:18:35.617638",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "user",
+            "content": "ℹ️ درباره",
+            "timestamp": "2026-02-12T20:18:41.957064",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          },
+          {
+            "role": "assistant",
+            "content": "PeakTube Smart Support فقط برای YouTube طراحی شده است. ما هیچ پلتفرم دیگری را پشتیبانی نمی‌کنیم.",
+            "timestamp": "2026-02-12T20:18:44.913228",
+            "user_id": 5754581238,
+            "conversation_id": "097f501c-7dfe-4d0d-bb4d-d591f9510b33"
+          }
+        ],
+        "last_updated": "2026-02-12T20:18:44.913262"
+      },
+      {
+        "conversation_id": "7acae0a0-e257-42e6-8113-f3314809a087",
+        "user_id": 5754581238,
+        "title": "سلام",
+        "messages": [
+          {
+            "role": "user",
+            "content": "سلام",
+            "timestamp": "2026-02-15T00:39:41.911713",
+            "user_id": 5754581238,
+            "conversation_id": "7acae0a0-e257-42e6-8113-f3314809a087"
+          },
+          {
+            "role": "assistant",
+            "content": "سلام! من NOVA هستم، مدیر پشتیبانی هوشمند PeakTube. چطور می‌تونم کمکتون کنم؟",
+            "timestamp": "2026-02-15T00:39:47.141401",
+            "user_id": 5754581238,
+            "conversation_id": "7acae0a0-e257-42e6-8113-f3314809a087"
+          },
+          {
+            "role": "user",
+            "content": "درمورد خودت بگو",
+            "timestamp": "2026-02-15T00:39:57.354159",
+            "user_id": 5754581238,
+            "conversation_id": "7acae0a0-e257-42e6-8113-f3314809a087"
+          },
+          {
+            "role": "assistant",
+            "content": "من NOVA هستم، مدیر پشتیبانی هوشمند PeakTube که توسط تیم پیک تیوب طراحی و توسعه داده شده‌ام. وظیفه‌ام کمک به کاربران در مورد ویدیوهای یوتیوب و خدمات PeakTube است.",
+            "timestamp": "2026-02-15T00:40:06.078571",
+            "user_id": 5754581238,
+            "conversation_id": "7acae0a0-e257-42e6-8113-f3314809a087"
+          }
+        ],
+        "last_updated": "2026-02-15T00:40:06.078622"
+      },
+      {
+        "conversation_id": "8b3cf6bf-77e3-46f7-a8a6-0c1a0bb7eb4c",
+        "user_id": 5754581238,
+        "title": "سلام",
+        "messages": [
+          {
+            "role": "user",
+            "content": "سلام",
+            "timestamp": "2026-02-15T01:00:41.135024",
+            "user_id": 5754581238,
+            "conversation_id": "8b3cf6bf-77e3-46f7-a8a6-0c1a0bb7eb4c"
+          },
+          {
+            "role": "assistant",
+            "content": "سلام! من NOVA هستم، مدیر پشتیبانی هوشمند PeakTube. چطور می‌تونم کمکتون کنم؟",
+            "timestamp": "2026-02-15T01:00:48.168196",
+            "user_id": 5754581238,
+            "conversation_id": "8b3cf6bf-77e3-46f7-a8a6-0c1a0bb7eb4c"
+          }
+        ],
+        "last_updated": "2026-02-15T01:00:48.168206"
+      }
+    ]
+  },
+  "5400540292": {
+    "username": "Hajalireza2",
+    "plan": "free",
+    "created_at": "2025-12-13T17:45:52.935067",
+    "downloads_today": 0,
+    "downloads_total": 0,
+    "subscription_end": null,
+    "last_reset": "2026-01-05T17:09:25.098576"
+  },
+  "123861803": {
+    "username": "SHiidFar",
+    "plan": "free",
+    "created_at": "2025-12-15T17:18:03.367162",
+    "downloads_today": 0,
+    "downloads_total": 0,
+    "last_reset": "2025-12-15T17:18:03.367177",
+    "downloads_this_month": 0,
+    "last_monthly_reset": "2025-12-15T17:18:03.367181",
+    "referrer_id": 5754581238,
+    "referral_count": 0,
+    "joined_at": "2025-12-15T17:18:03.367184",
+    "subscription_end": null
+  },
+  "6945605147": {
+    "username": "Masuha124rf",
+    "plan": "free",
+    "created_at": "2025-12-16T17:28:08.032379",
+    "downloads_today": 1,
+    "downloads_total": 1,
+    "last_reset": "2025-12-16T17:28:08.032379",
+    "downloads_this_month": 0,
+    "last_monthly_reset": "2025-12-16T17:28:08.032379",
+    "referrer_id": 5754581238,
+    "joined_at": "2025-12-16T17:28:08.032379",
+    "subscription_end": null
+  },
+  "8451793317": {
+    "username": "User_8451793317",
+    "plan": "professional",
+    "created_at": "2025-12-20T16:35:26.914433",
+    "downloads_today": 1,
+    "downloads_total": 11,
+    "last_reset": "2025-12-26T19:58:22.136318",
+    "downloads_this_month": 0,
+    "last_monthly_reset": "2025-12-20T16:35:26.914433",
+    "referrer_id": 5754581238,
+    "joined_at": "2025-12-20T16:35:26.914433",
+    "subscription_end": "2025-12-24T16:43:43.224823",
+    "support": {
+      "last_admin_message": {
+        "text": "سلام دوست عزیز",
+        "timestamp": "2025-12-20T16:36:22.235716"
+      }
+    },
+    "language": "fa"
+  },
+  "8378170210": {
+    "username": ".",
+    "plan": "professional",
+    "created_at": "2026-01-05T15:55:45.006451",
+    "downloads_today": 0,
+    "downloads_total": 13,
+    "last_reset": "2026-02-16T16:29:16.564945",
+    "downloads_this_month": 0,
+    "last_monthly_reset": "2026-01-05T15:55:45.006451",
+    "referrer_id": null,
+    "joined_at": "2026-01-05T15:55:45.006451",
+    "subscription_end": "2026-03-16T00:35:43.991019",
+    "language": "fa",
+    "ai_window_start_time": "2026-02-13T21:41:38.167953",
+    "ai_used_count": 8,
+    "ai_conversations": [
+      {
+        "conversation_id": "10917219-48d4-4990-a98b-5eca4ce902f0",
+        "user_id": 8378170210,
+        "title": "hey nova",
+        "messages": [
+          {
+            "role": "user",
+            "content": "hey nova",
+            "timestamp": "2026-02-15T12:46:00.330337",
+            "user_id": 8378170210,
+            "conversation_id": "10917219-48d4-4990-a98b-5eca4ce902f0"
+          }
+        ],
+        "last_updated": "2026-02-15T12:46:00.330345"
+      },
+      {
+        "conversation_id": "0fd8ee65-d5d9-4a1f-bc19-e7a696b30d0a",
+        "user_id": 8378170210,
+        "title": "hi nova dear",
+        "messages": [
+          {
+            "role": "user",
+            "content": "hi nova dear",
+            "timestamp": "2026-02-15T12:47:56.526021",
+            "user_id": 8378170210,
+            "conversation_id": "0fd8ee65-d5d9-4a1f-bc19-e7a696b30d0a"
+          },
+          {
+            "role": "assistant",
+            "content": "Hi! How can I help you today? 😊",
+            "timestamp": "2026-02-15T12:47:58.361988",
+            "user_id": 8378170210,
+            "conversation_id": "0fd8ee65-d5d9-4a1f-bc19-e7a696b30d0a"
+          },
+          {
+            "role": "user",
+            "content": "new bot peakteam in future?",
+            "timestamp": "2026-02-15T12:48:16.451124",
+            "user_id": 8378170210,
+            "conversation_id": "0fd8ee65-d5d9-4a1f-bc19-e7a696b30d0a"
+          },
+          {
+            "role": "assistant",
+            "content": "Yes, it's possible! The PeakTeam may develop bots for other platforms in the future. But for now, PeakTube Smart Support only handles YouTube.",
+            "timestamp": "2026-02-15T12:48:18.894174",
+            "user_id": 8378170210,
+            "conversation_id": "0fd8ee65-d5d9-4a1f-bc19-e7a696b30d0a"
+          }
+        ],
+        "last_updated": "2026-02-15T12:48:18.894184"
+      },
+      {
+        "conversation_id": "463ef82e-6976-47a1-b84b-d93d38d7bb5f",
+        "user_id": 8378170210,
+        "title": "سلام علیک",
+        "messages": [
+          {
+            "role": "user",
+            "content": "سلام علیک",
+            "timestamp": "2026-02-15T15:22:21.127763",
+            "user_id": 8378170210,
+            "conversation_id": "463ef82e-6976-47a1-b84b-d93d38d7bb5f"
+          },
+          {
+            "role": "assistant",
+            "content": "سلام علیک! خوش آمدید. من NOVA هستم، پشتیبان هوشمند PeakTube. چگونه می‌توانم کمکتان کنم؟",
+            "timestamp": "2026-02-15T15:22:26.574463",
+            "user_id": 8378170210,
+            "conversation_id": "463ef82e-6976-47a1-b84b-d93d38d7bb5f"
+          }
+        ],
+        "last_updated": "2026-02-15T15:22:26.574476"
+      },
+      {
+        "conversation_id": "7b564920-ec68-458c-8760-12dc0e379905",
+        "user_id": 8378170210,
+        "title": "اهلا و سهلا",
+        "messages": [
+          {
+            "role": "user",
+            "content": "اهلا و سهلا",
+            "timestamp": "2026-02-15T16:00:28.129781",
+            "user_id": 8378170210,
+            "conversation_id": "7b564920-ec68-458c-8760-12dc0e379905"
+          },
+          {
+            "role": "assistant",
+            "content": "سلام! خوش آمدید. من NOVA هستم، پشتیبان هوشمند PeakTube. چطور می‌تونم کمکتون کنم؟",
+            "timestamp": "2026-02-15T16:00:32.825170",
+            "user_id": 8378170210,
+            "conversation_id": "7b564920-ec68-458c-8760-12dc0e379905"
+          },
+          {
+            "role": "user",
+            "content": "can you speak arabic?",
+            "timestamp": "2026-02-15T16:00:47.676262",
+            "user_id": 8378170210,
+            "conversation_id": "7b564920-ec68-458c-8760-12dc0e379905"
+          },
+          {
+            "role": "assistant",
+            "content": "Yes, I can speak Arabic. How can I help you with PeakTube?",
+            "timestamp": "2026-02-15T16:00:49.933574",
+            "user_id": 8378170210,
+            "conversation_id": "7b564920-ec68-458c-8760-12dc0e379905"
+          },
+          {
+            "role": "user",
+            "content": "speak arabic",
+            "timestamp": "2026-02-15T16:01:02.696452",
+            "user_id": 8378170210,
+            "conversation_id": "7b564920-ec68-458c-8760-12dc0e379905"
+          },
+          {
+            "role": "assistant",
+            "content": "أهلاً وسهلاً! أنا NOVA، المساعد الذكي الرسمي لبوت PeakTube في تلغرام. كيف يمكنني مساعدتك اليوم؟",
+            "timestamp": "2026-02-15T16:01:07.230934",
+            "user_id": 8378170210,
+            "conversation_id": "7b564920-ec68-458c-8760-12dc0e379905"
+          }
+        ],
+        "last_updated": "2026-02-15T16:01:07.230957"
+      },
+      {
+        "conversation_id": "5bb24238-1222-4e3a-b1ae-158c1d8de19e",
+        "user_id": 8378170210,
+        "title": "can you speak arabic?",
+        "messages": [
+          {
+            "role": "user",
+            "content": "can you speak arabic?",
+            "timestamp": "2026-02-15T16:03:41.220793",
+            "user_id": 8378170210,
+            "conversation_id": "5bb24238-1222-4e3a-b1ae-158c1d8de19e"
+          },
+          {
+            "role": "assistant",
+            "content": "No, I can only speak Persian (فارسی) or English. I was designed and developed by the PeakTube team to support users in these two languages only. If you need help, please ask in Persian or English, and I’ll be happy to assist you!",
+            "timestamp": "2026-02-15T16:03:44.484131",
+            "user_id": 8378170210,
+            "conversation_id": "5bb24238-1222-4e3a-b1ae-158c1d8de19e"
+          }
+        ],
+        "last_updated": "2026-02-15T16:03:44.484142"
+      },
+      {
+        "conversation_id": "cd0380f4-c595-4299-a50e-a5d44646464c",
+        "user_id": 8378170210,
+        "title": "can you speak arabic?",
+        "messages": [
+          {
+            "role": "user",
+            "content": "can you speak arabic?",
+            "timestamp": "2026-02-15T16:06:50.528587",
+            "user_id": 8378170210,
+            "conversation_id": "cd0380f4-c595-4299-a50e-a5d44646464c"
+          },
+          {
+            "role": "assistant",
+            "content": "No, I only speak Persian (Farsi) and English. I was designed and developed by the PeakTeam group to support PeakTube users, and my responses are limited to these two languages. If you need help, please use either Persian or English.",
+            "timestamp": "2026-02-15T16:06:55.297005",
+            "user_id": 8378170210,
+            "conversation_id": "cd0380f4-c595-4299-a50e-a5d44646464c"
+          },
+          {
+            "role": "user",
+            "content": "can you speak chines?",
+            "timestamp": "2026-02-15T16:07:38.939938",
+            "user_id": 8378170210,
+            "conversation_id": "cd0380f4-c595-4299-a50e-a5d44646464c"
+          },
+          {
+            "role": "assistant",
+            "content": "No, I only speak Persian (Farsi) and English. I was designed and developed by the PeakTeam group to support PeakTube users, and my responses are limited to these two languages. If you need help, please use either Persian or English.",
+            "timestamp": "2026-02-15T16:07:43.944386",
+            "user_id": 8378170210,
+            "conversation_id": "cd0380f4-c595-4299-a50e-a5d44646464c"
+          }
+        ],
+        "last_updated": "2026-02-15T16:07:43.944403"
+      },
+      {
+        "conversation_id": "20545e5d-28fd-40c0-bb4f-19df29d977be",
+        "user_id": 8378170210,
+        "title": "سلام و درود",
+        "messages": [
+          {
+            "role": "user",
+            "content": "سلام و درود",
+            "timestamp": "2026-02-16T16:32:00.742997",
+            "user_id": 8378170210,
+            "conversation_id": "20545e5d-28fd-40c0-bb4f-19df29d977be"
+          },
+          {
+            "role": "user",
+            "content": "سلام",
+            "timestamp": "2026-02-16T16:32:12.001244",
+            "user_id": 8378170210,
+            "conversation_id": "20545e5d-28fd-40c0-bb4f-19df29d977be"
+          },
+          {
+            "role": "user",
+            "content": "سلام",
+            "timestamp": "2026-02-16T16:33:47.834503",
+            "user_id": 8378170210,
+            "conversation_id": "20545e5d-28fd-40c0-bb4f-19df29d977be"
+          }
+        ],
+        "last_updated": "2026-02-16T16:33:47.834515"
+      },
+      {
+        "conversation_id": "e23d1344-cfe7-4a84-ad86-222f5fdd3529",
+        "user_id": 8378170210,
+        "title": "سلام و درود",
+        "messages": [
+          {
+            "role": "user",
+            "content": "سلام و درود",
+            "timestamp": "2026-02-16T16:34:34.537851",
+            "user_id": 8378170210,
+            "conversation_id": "e23d1344-cfe7-4a84-ad86-222f5fdd3529"
+          }
+        ],
+        "last_updated": "2026-02-16T16:34:34.537862"
+      }
+    ],
+    "plan_start_at": "2026-02-14T00:35:43.991019",
+    "plan_expire_at": "2026-03-16T00:35:43.991019",
+    "sales_state": "WAITING_FOR_PAYMENT",
+    "sales_plan_info": {
+      "plan_type": "premium",
+      "duration_days": 7,
+      "price_key": "premium_7"
+    }
+  },
+  "8522026206": {
+    "username": "Amir",
+    "plan": "free",
+    "created_at": "2026-02-04T16:58:37.894642",
+    "downloads_today": 0,
+    "downloads_total": 0,
+    "last_reset": "2026-02-04T16:58:37.894642",
+    "downloads_this_month": 0,
+    "last_monthly_reset": "2026-02-04T16:58:37.894642",
+    "referrer_id": null,
+    "joined_at": "2026-02-04T16:58:37.894642",
+    "subscription_end": null
+  }
+}

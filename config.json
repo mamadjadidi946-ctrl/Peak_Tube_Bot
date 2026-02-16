@@ -1,0 +1,11 @@
+{
+  "payments_enabled": true,
+  "force_join": {
+    "enabled": true,
+    "channels": [
+      "@sherovverr",
+      "@PeakTeamCenter"
+    ]
+  },
+  "mandatory_channel": "@PeakTeamCenter"
+}
